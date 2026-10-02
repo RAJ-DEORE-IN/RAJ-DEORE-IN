@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Raj Deore 👋
 
-<!--
-**RAJ-DEORE-IN/RAJ-DEORE-IN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech AI & Data Science Student | AI • IoT • Robotics • Embedded Systems
 
-Here are some ideas to get you started:
+I’m a B.Tech student exploring Artificial Intelligence, Data Science, IoT, Robotics and Embedded Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into practical prototypes and experimenting with intelligent systems, hardware and real-world applications.
+
+## What I Work With
+
+- Artificial Intelligence & Machine Learning
+- Data Science
+- IoT & Embedded Systems
+- Robotics
+- Computer Vision
+- ESP32 & Arduino
+- Web & AI Applications
+
+## Featured Projects
+
+### DHARASCOPE
+AI-assisted low-cost real-time mine subsidence monitoring and early warning prototype.
+
+### TraumaNet
+A technology-focused project exploring faster coordination and response during critical trauma situations.
+
+### SATYA
+A news platform focused on presenting information in a clear and trustworthy way.
+
+## Currently Exploring
+
+AI systems • Robotics • Computer Vision • Embedded AI • Physics
+
+## Beyond Technology
+
+I also write about physics, existence and ideas around reality.
+
+Author of **Astitav Ke Paar** — a personal exploration of physics, reality, time, dimensions and observation.
+
+---
+
+**QUESTION.IMAGINE BEYOND.BUILD THE FUTURE.**
